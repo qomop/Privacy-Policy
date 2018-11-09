@@ -1,4 +1,4 @@
-# privacyPolicyJontron
+# Privacy Policy Jontron Soundboard application
 Privacy Policy
 Miha Debeljak built the Jontron Soundboard app as an Ad Supported app. This SERVICE is provided by Miha Debeljak at no cost and is intended for use as is.
 
